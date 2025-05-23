@@ -1,9 +1,9 @@
 <h2 align="left">Hello, World!!👋 My name is Trilok and I'm from Nepal.</h2>
 
 <p>
-  🛜 currently working on React project <br>
-  👨🏼‍🎓 studying Computer Engineering at Himalaya College of Engineering <br>
-  👨🏼‍💻 learning web development since 2022
+  🛜 currently working on NextJS project <br>
+  👨🏼‍💻 learning web development since 2022 <br> 
+  👨🏼‍🎓 study in Computer Engineering at Himalaya College of Engineering 
 </p>
 
 ###
