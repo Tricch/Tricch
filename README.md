@@ -3,7 +3,7 @@
 <p>
   🛜 currently working on NextJS project <br>
   👨🏼‍💻 learning web development since 2022 <br> 
-  👨🏼‍🎓 study in Computer Engineering at Himalaya College of Engineering 
+  👨🏼‍🎓 studied Computer Engineering at Himalaya College of Engineering 
 </p>
 
 ###
