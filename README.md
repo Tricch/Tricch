@@ -16,7 +16,7 @@
 - 🌱 Learning web development since **2022**
 - 🎓 Computer Engineering student at **Himalaya College of Engineering**
 - 🎨 I enjoy turning Figma designs into clean, responsive interfaces
-- 📫 Reach me at **trilokchy999@gmail.com**
+- 📫 Reach me at **tc@trilokchaudhary.com.np**
 
 <br>
 
