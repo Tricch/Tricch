@@ -1,65 +1,79 @@
-<h2 align="left">Hello, World!!👋 My name is Trilok and I'm from Nepal.</h2>
+<div align="center">
 
-<p>
-  🛜 currently working on NextJS project <br>
-  👨🏼‍💻 learning web development since 2022 <br> 
-  👨🏼‍🎓 studied Computer Engineering at Himalaya College of Engineering 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Trilok+%F0%9F%91%8B;Frontend+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+with+Next.js+%26+React" alt="Typing intro" />
 
-###
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Tricch&label=Profile+views&color=bd93f9&style=flat-square" alt="profile views" />
+
+</div>
+
+---
+
+## 👨🏼‍💻 About Me
+
+- 🛜 Currently building a **Next.js** project
+- 🌱 Learning web development since **2022**
+- 🎓 Computer Engineering student at **Himalaya College of Engineering**
+- 🎨 I enjoy turning Figma designs into clean, responsive interfaces
+- 📫 Reach me at **trilokchy999@gmail.com**
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tricch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tricch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,vite,figma,git,github,vscode&perline=12" alt="tech stack" />
 </div>
 
-###
+<br>
 
-<img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkzNzc0Mm9jMDliMWw5YmFrMjZjeWZrNmxyNXEwejdzdHhoNmVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.webp"  />
+## 📊 GitHub Stats
 
-### Tech Skills:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tricch&show_icons=true&theme=dracula&hide_border=false&border_radius=5&count_private=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tricch&layout=compact&langs_count=6&theme=dracula&hide_border=false&border_radius=5&card_width=320" height="170" alt="Top languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Tricch&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub streak" />
 </div>
 
-### Contacts:
+<br>
 
-<div align="left">
-  <a href="https://www.instagram.com/tricch.svg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<!--
+## 🚀 Featured Projects
+Uncomment this section and replace REPO_NAME with your repo names.
+
+<div align="center">
+  <a href="https://github.com/Tricch/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tricch&repo=REPO_NAME&theme=dracula&border_radius=5" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Tricch/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tricch&repo=REPO_NAME_2&theme=dracula&border_radius=5" alt="Project 2" />
+  </a>
+</div>
+-->
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/trilok-chaudhary-988328222/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:trilokchy999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/trilok-chaudhary-988328222/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/tricch.svg/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/tricch.np/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://wa.me/9868761233" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
-###
-
-<br clear="both">
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tricch/Tricch/output/github-snake-dark.svg" />
